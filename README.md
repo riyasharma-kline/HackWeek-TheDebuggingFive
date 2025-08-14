@@ -1,1 +1,1 @@
-# Hack-Week---The-Debugging-Five
+# Hack Week - The Debugging Five
